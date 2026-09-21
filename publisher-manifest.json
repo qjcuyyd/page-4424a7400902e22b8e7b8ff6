@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e48fdc6bb5e23a3b4699ebf4",
+  "owner": "qjcuyyd",
+  "repo": "page-4424a7400902e22b8e7b8ff6",
+  "title": "雪云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4424a7400902e22b8e7b8ff6",
+      "a": "雪云",
+      "b": "机场官网线路发布页",
+      "entity": "雪云",
+      "brand": "雪云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3ade2fbc0f41b309543831db5109e2964421fe39d4ec5f3c8f6e2f7d0221ffd3",
+      "content": {
+        "primary_entity": "雪云",
+        "keyword1": "雪云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "雪云支持在常见桌面与移动系统上通过订阅方式完成配置连接。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定合适套餐，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐开始使用",
+          "AI_DESCRIPTION": "，围绕海外加速场景提供多种套餐与订阅配置方式。基础版每月15元含100GB流量，支持3台设备；旗舰版每月35元含300GB流量，支持5台设备并配备IPLC专线；团队版每月85元含1000GB流量，支持20台设备。用户可结合设备数量与用量选择合适的周期，按年付分别只需150元、350元与850元，性价比更高。",
+          "AI_FAQ_ANSWER_1": "雪云提供基础版、旗舰版与团队版，流量分别为100GB、300GB与1000GB，适配不同使用强度。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台，旗舰版支持5台，团队版支持20台，多设备用户建议选择旗舰版或团队版。",
+          "AI_FAQ_ANSWER_3": "按年付可节省两个月费用，基础版150元、旗舰版350元、团队版850元，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_4": "旗舰版配备IPLC专线并针对游戏场景优化，团队版提供VIP高带宽节点，可按对延迟的敏感度选择。",
+          "AI_FAQ_ANSWER_5": "在客户端中添加雪云订阅地址并更新节点，选择延迟合适的线路即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "雪云有哪些套餐？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持多少台设备？",
+          "AI_FAQ_QUESTION_3": "按年付有什么优惠？",
+          "AI_FAQ_QUESTION_4": "游戏加速选哪个套餐？",
+          "AI_FAQ_QUESTION_5": "如何配置订阅？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐周期、设备数量与线路类型三方面帮助你选择合适的方案。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版适合个人日常使用，旗舰版含IPLC专线更适合游戏与高清流媒体，团队版面向多设备高流量场景。",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台，对照自己常在线设备数量选择即可避免超出限制。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版150元、旗舰版350元、团队版850元，长期使用建议直接选年付。",
+          "AI_FEATURE_TITLE_1": "按需选套餐",
+          "AI_FEATURE_TITLE_2": "匹配设备数",
+          "AI_FEATURE_TITLE_3": "周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到连接使用的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "雪云提供多种海外加速套餐，覆盖个人到团队使用场景。基础版、旗舰版与团队版分别匹配不同流量和设备数量需求，按年付更优惠。",
+          "AI_HERO_SUBTITLE": "雪云海外加速套餐选择",
+          "AI_HIGHLIGHT_1": "三档套餐灵活选择",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线",
+          "AI_HIGHLIGHT_3": "按年付更优惠",
+          "AI_PLANS_INTRO": "基础版每月100GB支持3台设备，旗舰版每月300GB支持5台设备并含IPLC专线，团队版每月1000GB支持20台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版中选定合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐对设备数和流量范围的要求，确认是否满足日常使用场景。",
+          "AI_STEP_TEXT_3": "依照所用客户端的订阅配置说明，导入订阅地址并选择合适的节点连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "雪云套餐一览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yttio.cn",
+    "host": "yttio.cn"
+  },
+  "file_hashes": {
+    "index.html": "ccba4ba1971e85694dc71fd7b762bf00dd72899793f6b60b0104105852f3f2f3",
+    "sitemap.xml": "3b6467f00f5972db4d7e58e00668714b3c285e2f2948ab706d271580ac4c5e51",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4ff235b996e04249a3e1b4cfe2604227c4485fa6eed119d21c52cc946c9a09b9",
+    "robots.txt": "67f1dcf523cf9c4755b4041a543e906b1d3ba7ca4c9a2c64e3ce576940af8318",
+    "9fa1732ae738c2ec98a5448e8b5b7a15.txt": "434c6c86b9195550be35837620b53d4c7fda9d26216bf5a0a5ff9cc58d86bee1"
+  },
+  "revision": "20dd7f9a3a53b5679eb57b8c456ee06fcdd521b01c10fda15c2519b60141ee26"
+}
